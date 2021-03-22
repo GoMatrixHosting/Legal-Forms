@@ -1,132 +1,140 @@
-ChatOasis
-Terms & Conditions
+GoMatrixHosting - Terms & Conditions v0.1
 
-This agreement does not apply to Matrix services run by anyone else - Matrix is an open network like the Web and this agreement only applies to the services provisioned by the client and provided by ChatOasis.
+This agreement does not apply to Matrix services run by any other provider - Matrix is an open network like the Web and this agreement only applies to the services leased by the subscriber and provided by GoMatrixHosting.
+
+
+Section 1 - Provider Agreement
+
+GoMatrixHosting:
+
+    1.1) agree to the Terms and Conditions defined in this document.
+
+    1.2) acknowledge that these Terms and Conditions are a living document, which we are free to edit at any time. 
+
+    1.3) reserve the right to discontinue the services if you the subscriber do not agree to any revised future version of these Terms and Conditions.
+
+    1.4) agree to setup and maintain a Matrix service, Element service and Jitsi service at the domain names specified by and owned by the subscriber. 
+
+    1.5) are not responsible for the services you are renting from us, we will not directly assist in moderating the services for the subscriber, but can offer instruction to help the subscriber do this.
+
+    1.6) are not liable to you or any third party for any damages or losses that occur from:
+        a) use of the services or inability to use the services.
+        b) third parties that you may encounter on the services.
+        c) unauthorised access or alteration of your communications or data.
+        d) loss of user data or other content.
+        e) any website referenced or linked to on the service.
+
+    1.7) are not responsible for maintaining any bridges, bots or extra integrations unless otherwise stated. 
+
+    1.8) will bill the subscriber on a monthly basis if they are paying by PayPal or Stripe, invoices are generated at the beginning of the billing period.
+
+    1.9) may offer the subscriber the following services as a part of their subscription:
+        a) help using and understand the service.
+        b) instructions on how to moderate the service.
+        c) performance monitoring and tuning of the server over time.
+        d) support during service outages.
+        e) backup and predicted recovery of the service.
+        f) ordinary upgrade or downgrade of subscription size.
+
+    1.10) will offer 'premium support' for an additional one-time fee, the cost will be based on the amount of hours taken to provide the support, this may include:
+        a) unpredicted recovery of the service.
+        b) customising the services for the subscribers unique or changing needs.
+        c) development of new features requested by the subscriber.
+        d) service repair related to any discouraged or additional modification of a server by the subscriber.
+
+    1.11) will bill the subscriber for any premium support offered, either before or after the support is provided.
+
+    1.12) agree to offer the support services mentioned above to the subscriber through Email and/or Matrix. It may take us up to 48 hours to respond to support queries.
+
+    1.13) do not offer telephone support, unless otherwise specified.
+
+    1.14) prioritise routine maintenance and service outages to a regular maintenance window, see: https://gomatrixhosting.com/scheduled-maintenance/
+
+    1.15) reserve the right to discontinue the subscribers service if subscription invoices are not paid at the beginning of the billing period or if premium support invoices are not paid.
+
+    1.16) reserve the right to suspend the services immediately and without notice, and to report the data and logs of these services to any relevant authorities, if we determine, in our sole judgement, that any of the services are being used unlawfully or in violation of local regulations - even though we have no responsibility to make such determination.
+
+    1.17) will attempt to provide the best service possible, but at the same time we provide these services ‘as is’ without a warranty of any kind. We at GoMatrixHosting make no warranty that:
+        a) the services will meet your requirements or expectations.
+        b) the services will be error-free, secure or reliable.
+        c) any errors or defects in the services will be corrected.
+
+    1.18) are not able to respond to any government request that attempts to undermine or circumvent the security features of the software we deploy.
+
+    1.19) we reserve the right to publish all legal requests defined in section 1 - 1.18 of this document.
+
+    1.20) have a ‘Your Service, Your Data’ policy, where you are entitled to a copy of your homeserver's data, this is all the data you need to migrate your Matrix/Element/Jitsi service away from GoMatrixHosting. This is available under the condition that all your subscriber invoices have been paid, and your server was not involved in any illegal activity.
+
+
+Section 2 - Subscriber Agreement
+
+By using any of our services, you the subscriber:
+
+    2.1) agree to the Terms and Conditions defined in this document.
+
+    2.2) understand that these Terms and Conditions are a living document, that you will be required to review any changes made to it, and that as a subscriber your continued use of GoMatrixHosting services constitute an acceptance of these changes.
+
+    2.3) reserve the right to discontinue the services if you do not agree with any version of this document.
+
+    2.4) affirm that you are a legally responsible adult in the jurisdiction you reside in.
+
+    2.5) affirm that you are the owner of all the domain names your Matrix, Element and Jitsi services are being hosted at.
+
+    2.6) agree to be responsible for the server and services you are renting from us, and to moderate them to be in compliance with the law.
+
+    2.7) understand that it is my responsibility to report any illegal activity you witness (Eg: The distribution of child pornography.) on the service to GoMatrixHosting and to the relevant authorities.
+
+    2.8) understand that in a federated environment the performance of other servers might affect your users.
+
+    2.9) understand that Matrix is a persistent chat network and hosting fees may grow over time based on how many users there are.
+
+    2.10) agree to pay due invoices at the beginning of each billing period, I understand that the services will be discontinued if I do not pay these.
+    
+    2.11) agree to not modify your server in a way that is discouraged, not advised by GoMatrixHosting or that circumvents the restrictions imposed by GoMatrixHosting.
+    
+    2.12) understand that you may be required to pay for premium support or that your service may be discontinued if you modify your server in ways defined in section 11 of the 'Subscriber Agreement' section of this document.
+
+    2.13) are free to terminate the services at any time, but understand that refunds for previously provided services will not be available.
+
+    2.14) understand the services do not and are not intended to support emergency calls to any emergency services. We at GoMatrixHosting is not liable for any claims, damages or loss which arise from this limitation.
+
+    2.15) agree to indemnify and hold GoMatrixHosting and its other partners and employees harmless from any claim or demand, including reasonable legal fees, made by any third party due to or arising out of:
+        a) your users transmitting content though the services, including third party use of such content.
+        b) your access or use of the service, as well as the access and use of your users whether or not they are authorised by you.
+        c) your violation of our Terms & Conditions.
+        d) your violation of any rights of any third party.
+        e) your access and use, as well as the access and use of your users of linked sites.
+
+    2.16) understand that GoMatrixHosting is an Estonian company and is subject to Estonian and EU law.
+
+    2.17) do not claim intellectual property rights over rooms, message content from users transmitted directly to the server, through federation or through a bridge.
 
 
 Definition of terms:
 
-‘Matrix’ - the open standard that defines the Matrix network, as well as the actual network compromised of Matrix servers around the globe.
+‘Matrix’ - is the open standard that defines the Matrix network, as well as the actual network compromised of Matrix servers around the globe.
 
-‘Client' - refers to the individual, or the organisation represented by the individual, agreeing to these Terms & Conditions during the set-up of a Matrix server with ChatOasis.
+‘Subscriber' - refers to the individual, or organisation, who have an active subscription with GoMatrixHosting.
 
-‘Service’ - refers to the Matrix, Riot and Jitsi services and support services and any other services provided by ChatOasis.
+‘Users’ - people who access or use the services the subscriber has rented, whether explicitly authorised or not.
 
-‘Server’ - refers to the virtual or physical server and infrastructure rented by ChatOasis to host these services on. (Eg: VPS, SES, Object Storage.) 
+’Homeserver’ - a Matrix server, it stores user accounts, conversation history and provides extra functionality, homeservers are rented by subscribers as a part of their GoMatrixHosting service, if enabled by the subscriber homeservers facilitate conversations across the Matrix network.
+
+’Subscription’ - a unit of service.
+
+‘Service’ - refers to the Matrix homeserver, Element and Jitsi services and support services and any other services provided by GoMatrixHosting.
+
+‘Server’ - refers to the virtual or physical server and infrastructure rented by GoMatrixHosting to host these services on. (Eg: VPS, SES, Object Storage.) 
+
+’Premium Support’ - refers to any extra support services provided by GoMatrixHosting that are billed seperately.
 
 ‘Federation’ - when Matrix servers connect and synchronise the state of rooms to provide communication for users across Matrix servers.
 
-‘Users’ - people who access or use the the services the client has rented, whether explicitly authorised or not.
+‘Active Users’ - refers to user accounts that are registered on the subscribers Matrix server that have been logged in for more then 24 hours in the last 30 days.
 
-‘Active Users’ - refers to user accounts that are registered on the clients Matrix server that have been logged in for more then 48 hours in the last 30 days.
+‘Client‘ - the Matrix client software that is run by users and connects them to a homeserver.
 
-‘Riot’ - refers to the popular open source Matrix software called ‘riot-web’, created by New Vector.
+‘Element’ - refers to the popular open source Matrix software called ‘element-web’, created by New Vector.
 
 ‘Jitsi’ - refers to the popular open source web conferencing software ‘jitsi-meet’, created by Jitsi.org.
-
-
-
-We at ChatOasis:
-
-    1. agree to the Terms and Conditions defined in this document.
-       
-    2. understand that these Terms and Conditions are a living document, which we can edit at any time. 
-       
-    3. reserve the right to discontinue the services if you the client do not agree to any new version of these Terms and Conditions.
-       
-    4. agree to setup and maintain a Matrix service, Riot service and Jitsi service at the domain names specified by and owned by the client. 
-       
-    5. are not responsible for the services you are renting from us, we will not directly assist in moderating the services for the client, but can offer instruction to help the client do this.
-       
-    6. are not liable to you or any third party for any damages or losses that occur from:
-        1. use of the services or inability to use the services.
-        2. third parties that you may encounter on the services.
-        3. unauthorised access or alteration of your communications or data.
-        4. loss of user data or other content.
-        5. any website referenced or linked to on the site.
-           
-    7. are not responsible for maintaining any bridges, bots or extra integrations unless otherwise stated. 
-       
-    8. will bill the client every 1 or 3 months depending on their preference, this invoice will be made up of a ‘maintenance and support fee’, as well as a ‘hosting fee’. Invoices are generated at the beginning of the billing period. 
-       
-    9. will offer the client the following services as a part of the ‘maintenance and support fee’:
-        1. customising the services for their changing needs.
-        2. help using and understand the services.
-        3. instructions on how to moderate the service.
-        4. performance monitoring and tuning of the server over time.
-        5. support during service outages.
-        6. backup and recovery of the service.
-
-    10. will base the ‘maintenance and support fee’ off the amount of ‘active users’ the service has. A limit can be set on the amount of active users to control your expenses.
-        
-    11. will base the ‘hosting fees’ on any server infrastructure rented to maintain your services. This will be an estimate and actual hosting expenses may vary.
-       
-    12. will issue the client copies of the actual hosting fees at the end of each billing period. Any differences will be carried over to the following billing period. 
-
-
-
-    13. agree to offer the ‘maintenance and support fee’ services mentioned above to the client through Email and/or Matrix. It may take us up to 48 hours to respond to these queries.
- 
-    14. do not offer telephone support as a part of the ‘maintenance and support fee’, unless otherwise specified.
-       
-    15. reserve the right to discontinue the services if invoices are not paid within 7 days of the beginning of the billing period.
-       
-    16. reserve the right to suspend the services immediately and without notice, and to report the data and logs of these services to any relevant authorities, if we determine, in our sole judgement, that any of the services are being used unlawfully or in violation of local regulations - even though we have no responsibility to make such determination.
-       
-    17. will attempt to provide the best service possible, but at the same time we provide these services ‘as is’ without a warranty of any kind. We at ChatOasis make no warranty that:
-        1. the services will meet your requirements or expectations.
-        2. the services will be error-free, secure or reliable.
-        3. any errors or defects in the services will be corrected.
-           
-    18. refuse to aide corrupt governments in suppressing dissidents, activists, journalists, etc. We will never respond to legal requests from Governments with very low ratings (>70) on the Press Freedom Index, this includes:
-        ◦ North Korea
-        ◦ Turkmenistan
-        ◦ Eritrea
-        ◦ China
-        ◦ Djibouti
-        ◦ Vietnam
-          
-    19. are not able to respond to any government request that attempts to undermine or circumvent the security features in the software we deploy.
-       
-    20. we reserve the right to publish all legal requests defined in section 18 and 19 of this document.
-       
-    21. have a ‘Your Service, Your Data’ policy, where you are entitled to a copy of your servers data, this is all the data you need to migrate your Matrix/Riot/Jitsi service away from ChatOasis. This is available under the condition that all your client invoices have been paid, and your server was not involved in any illegal activity, as this would make us culpable.
-
-
-By using any of our services, you the client:
-
-    1. agree to the Terms and Conditions defined in this document.
-       
-    2. understand that these Terms and Conditions are a living document, and that you will be required to review and accept any changes to it.
-
-    3. reserve the right to discontinue the services if you do not agree with any version of this document.
-       
-    4. affirm that you are the owner of all the domain names your Matrix, Riot and Jitsi services are being hosted at.
-       
-    5. agree to be responsible for the server and services you are renting from us, and to moderate them to be in compliance with the law.
-       
-    6. understand that it is my responsibility to report any illegal activity I witness (Eg: The distribution of child pornography.) on the service to ChatOasis and to the relevant authorities.
-       
-    7. understand that in a federated environment the performance of other servers might affect your users.
-       
-    8. understand that Matrix is a persistent chat network and hosting fees may grow over time based on how many users there are.
-       
-    9. agree to pay due invoices within 7 days of the beginning of each billing period, I understand that the services will be discontinued if I do not pay these.
-
-    10. are free to terminate the services at any time, but understand that refunds for previously provided services will not be available.
-       
-
-    11. understand the services do not and are not intended to support emergency calls to any emergency services. We at ChatOasis is not liable for any claims, damages or loss which arise from this limitation.
-
-    12. agree to indemnify and hold ChatOasis and its other partners and employees harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of:
-        1. your users transmitting content though the services, including third party use of such content.
-        2. your access or use of the service, as well as the access and use of your users whether or not they are authorised by you.
-        3. your violation of our Terms & Conditions.
-        4. your violation of any rights of any third party.
-        5. your access and use, as well as the access and use of your users of linked sites.
-
-    13. understand that ChatOasis is an Australian company and is subject to Australian law.
-       
-    14. do not claim intellectual property rights over rooms, message content from users transmitted directly to the server, through federation or through a bridge.
-
 

@@ -1,0 +1,146 @@
+GoMatrixHosting - Privacy Policy v0.1
+
+As a subscriber or user of GoMatrixHosting services we care about your privacy. This document is designed to clarify how your personnal data is collected, used and what rights you have as a subscriber or user of GoMatrixHosting.
+
+
+Section 1 - Scope of this document
+
+This document explains how we process personnal data as it relates to:
+    1) Subscribers who rent services from GoMatrixHosting.
+    2) Users, authorized or not who connect to these services.
+
+
+Section 2 - Changes to this document
+
+This privacy policy should be considered a living document and so it may be updated over time. As a subscriber or user your continued use of GoMatrixHosting services or homeservers constitute an acceptance of all such changes.
+
+
+Section 3 - GDPR (General Data Protection Regulation) erasure and access
+
+Subscribers can request access to all the data we collect about them. This may include the data of their users. To request access to all of your data please email: support@gomatrixhosting.com
+
+Subscribers can request that all data about them be deleted. This will not include billing data which must be preserved for accounting purposes. Be careful when making a request of this nature, as an erasure cannot be undone. To request that your account be closed and all your data is erased please email: support@gomatrixhosting.com 
+
+Users can perform their own GDPR compliant erasure by deactivating their account through the Element client.
+
+
+Section 4 - The information we collect about you, subscriber personnal data
+
+We collect information about you if you lease a service from us, or if you are a user of one of our homeservers or another homeserver that federates.
+
+As a subscriber we collect your:
+    1) Full name
+    2) Residential address
+    3) Email address
+
+Your email address is used as your account identifier. Your address is used to calculate any additional taxes you may be subject to.
+
+
+Section 5 - The information we collect about you, subscriber billing data
+
+Payment processing is handled by PayPal or Stripe, these processors store your credit card information as well as your billing contact information.
+
+Payment data is collected in our MemberPress database, it will never be shared with third parties except for the purpose of determining the validity of a payment. In this case it might be shared with your credit card provider or the payment processor.
+
+
+Section 6 - The information we collect from users of the service
+
+Users will have the following information collected automatically as they use the service:
+    1) IP Address: IPs are logged by the homeserver and coturn service and are retained for a period of 28 days.
+    2) Device IDs: Information about the devices a user is connecting to the homeserver will be retained for 28 days.
+    3) Redacted posts: Redactions are retained for 7 days.
+    4) System logs that may contain metadata about users: Some of these logs are retained for 28 days.
+    5) Potential backups of the services data where the subscriber has opted into offsite backups, these are retained for 28 days.
+    6) Room data, room events and metadata that comprise a Matrix room, this includes:
+        a) Room members, information about which users are in rooms together in the form of join/leave/invite events.
+        b) Edit events, not the content of an edit, but the fact that it occured.
+        c) Profile pictures, message reactions, nicknames, read reciepts, message senders, message timestamps.
+
+
+Section 7 - Sharing data in compliance with law enforcement requests and applicable laws
+
+In exceptional circumstances we may be legally required to to share data about a subscriber or their users with a law enforcement agency, this will occur if:
+
+1) there is a valid warrant for that data.
+
+2) there is a legal requirement for us to share data.
+
+3) we are responding to an emergency, and believe in good faith that sharing that data is required to prevent the occurance of a serious crime.
+
+
+Section 8 - Handling of passwords
+
+Subscriber passwords are maintained by the wordpress/memberpress system. It is the responsibility of a subscriber to maintain proper password hygiene (e.g. using a password manager, rotating passwords). Actions taken using a subscribers credentials will be deemed to be the actions of that subscriber, with all consequences including service termination, civil and criminal penalties. 
+
+If the subscriber believes their acccount has been compromised it is the responsibility of that subscriber to immediately contact GoMatrixHosting.
+
+
+Section 9 - Children's privacy
+
+The subscriber must be a legally responsible adult in the juristiction they reside in.
+
+The subscriber must ensure that if minors are using the service that it complies with all the relevant legislation for the juristiction they reside in. The subscriber is responsible for any claims, damages or loss that occur from allowing non-adult users.
+
+
+Section 10 - Other parties that can access your data
+
+We host GoMatrixHosting use DigitalOcean for out AWX server and for subscriber DigitalOcean plans. It is possible that DigitalOcean employees could access subscriber or user data. The DigitalOcean privacy policy can be found here: https://www.dreamhost.com/legal/privacy-policy/
+
+Our front-end website is hosted on DreamHost, it is possible DreamHost employees could access subscriber data. The DreamHost privacy policy can be found here: https://www.dreamhost.com/legal/privacy-policy/
+
+Our setup includes the element-web client authored by Element Matrix Services. By using their client you are consenting to their privacy policy found here: https://element.io/privacy
+
+You can disable the element-web client through our AWX system if you do not wish to consent to the EMS privacy policy.
+
+Our company has physical access restrictions and security policies in place to protect your data.
+
+
+Section 11 - If GoMatrixHosting is sold
+
+In the event that GoMatrixHosting is sold, your data will be acquired by the third party making the purchase.
+
+GoMatrixHosting will give advanced warning to all of our subscribers if this is expected to happen and afford them the opportunity to migrate away from our service if they desire.
+
+
+Section 12 - What should I do if I find a security vulnerability with the service?
+
+If you have discovered a security concern please email us at: security@gomatrixhosting.com
+
+We value the security of this service and will work with you to address your concern. Please act in good faith to protect the privacy of the users and homeservers involved.
+
+
+Section 13 - Making a complaint
+
+If you have a complaint or suspect we are violating GDPR please contact us immediately at: support@gomatrixhosting.com
+
+We also welcome suggestions on how to improve our service.
+
+
+Definition of terms:
+
+‘Matrix’ - is the open standard that defines the Matrix network, as well as the actual network compromised of Matrix servers around the globe.
+
+‘Subscriber' - refers to the individual, or organisation, who have an active subscription with GoMatrixHosting.
+
+‘Users’ - people who access or use the services the subscriber has rented, whether explicitly authorised or not.
+
+’Homeserver’ - a Matrix server, it stores user accounts, conversation history and provides extra functionality, homeservers are rented by subscribers as a part of their GoMatrixHosting service, if enabled by the subscriber homeservers facilitate conversations across the Matrix network.
+
+’Subscription’ - a unit of service.
+
+‘Service’ - refers to the Matrix homeserver, Element and Jitsi services and support services and any other services provided by GoMatrixHosting.
+
+‘Server’ - refers to the virtual or physical server and infrastructure rented by GoMatrixHosting to host these services on. (Eg: VPS, SES, Object Storage.) 
+
+’Premium Support’ - refers to any extra support services provided by GoMatrixHosting that are billed seperately.
+
+‘Federation’ - when Matrix servers connect and synchronise the state of rooms to provide communication for users across Matrix servers.
+
+‘Active Users’ - refers to user accounts that are registered on the subscribers Matrix server that have been logged in for more then 24 hours in the last 30 days.
+
+‘Client‘ - the Matrix client software that is run by users and connects them to a homeserver.
+
+‘Element’ - refers to the popular open source Matrix software called ‘element-web’, created by New Vector.
+
+‘Jitsi’ - refers to the popular open source web conferencing software ‘jitsi-meet’, created by Jitsi.org.
+
