@@ -1,3 +1,7 @@
 # Terms and Conditions
 
-The ChatOasis Terms and Conditions, seen here: https://chatoasis.com/Terms&Conditions.pdf
+The GoMatrixHosting,
+
+Terms and Conditions, seen here: https://gomatrixhosting.com/terms-and-condition
+
+Privacy Policy, seen here: https://gomatrixhosting.com/privacy-policy
