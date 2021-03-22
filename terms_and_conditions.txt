@@ -20,7 +20,7 @@ GoMatrixHosting:
     1.6) are not liable to you or any third party for any damages or losses that occur from:
         a) use of the services or inability to use the services.
         b) third parties that you may encounter on the services.
-        c) unauthorised access or alteration of your communications or data.
+        c) unauthorized access or alteration of your communications or data.
         d) loss of user data or other content.
         e) any website referenced or linked to on the service.
 
@@ -36,9 +36,9 @@ GoMatrixHosting:
         e) backup and predicted recovery of the service.
         f) ordinary upgrade or downgrade of subscription size.
 
-    1.10) will offer 'premium support' for an additional one-time fee, the cost will be based on the amount of hours taken to provide the support, this may include:
+    1.10) will offer 'premium support' for an additional fee, the cost will be based on the amount of hours taken to provide the support, this may include:
         a) unpredicted recovery of the service.
-        b) customising the services for the subscribers unique or changing needs.
+        b) customizing the services for the subscribers unique or changing needs.
         c) development of new features requested by the subscriber.
         d) service repair related to any discouraged or additional modification of a server by the subscriber.
 
@@ -48,7 +48,7 @@ GoMatrixHosting:
 
     1.13) do not offer telephone support, unless otherwise specified.
 
-    1.14) prioritise routine maintenance and service outages to a regular maintenance window, see: https://gomatrixhosting.com/scheduled-maintenance/
+    1.14) prioritize routine maintenance and service outages to a regular maintenance window, see: https://gomatrixhosting.com/scheduled-maintenance/
 
     1.15) reserve the right to discontinue the subscribers service if subscription invoices are not paid at the beginning of the billing period or if premium support invoices are not paid.
 
@@ -114,11 +114,11 @@ Definition of terms:
 
 ‘Matrix’ - is the open standard that defines the Matrix network, as well as the actual network compromised of Matrix servers around the globe.
 
-‘Subscriber' - refers to the individual, or organisation, who have an active subscription with GoMatrixHosting.
+‘Subscriber' - refers to the individual, or organization, who have an active subscription with GoMatrixHosting.
 
-‘Users’ - people who access or use the services the subscriber has rented, whether explicitly authorised or not.
+‘Users’ - people who access or use the services the subscriber has rented, whether explicitly authorized or not.
 
-’Homeserver’ - a Matrix server, it stores user accounts, conversation history and provides extra functionality, homeservers are rented by subscribers as a part of their GoMatrixHosting service, if enabled by the subscriber homeservers facilitate conversations across the Matrix network.
+’Homeserver’ - a Matrix server, it stores user accounts, conversation history and provides extra functionality, homeservers are rented by subscribers as a part of their GoMatrixHosting service, if enabled the subscriber's homeserver facilitates conversations across the Matrix network.
 
 ’Subscription’ - a unit of service.
 
@@ -126,9 +126,9 @@ Definition of terms:
 
 ‘Server’ - refers to the virtual or physical server and infrastructure rented by GoMatrixHosting to host these services on. (Eg: VPS, SES, Object Storage.) 
 
-’Premium Support’ - refers to any extra support services provided by GoMatrixHosting that are billed seperately.
+’Premium Support’ - refers to any extra support services provided by GoMatrixHosting that are billed separately.
 
-‘Federation’ - when Matrix servers connect and synchronise the state of rooms to provide communication for users across Matrix servers.
+‘Federation’ - when Matrix servers connect and synchronize the state of rooms to provide communication for users across Matrix servers.
 
 ‘Active Users’ - refers to user accounts that are registered on the subscribers Matrix server that have been logged in for more then 24 hours in the last 30 days.
 
