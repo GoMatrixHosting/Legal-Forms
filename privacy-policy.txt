@@ -84,7 +84,7 @@ The subscriber must ensure that if minors are using the service that it complies
 
 Section 10 - Other parties that can access your data
 
-We host gmhosting OÜ use DigitalOcean for out AWX server and for subscriber DigitalOcean plans. It is possible that DigitalOcean employees could access subscriber or user data. The DigitalOcean privacy policy can be found here: https://www.dreamhost.com/legal/privacy-policy/
+We at gmhosting OÜ use DigitalOcean for our AWX server and for subscriber DigitalOcean plans. It is possible that DigitalOcean employees could access subscriber or user data. The DigitalOcean privacy policy can be found here: https://www.dreamhost.com/legal/privacy-policy/
 
 Our front-end website is hosted on DreamHost, it is possible DreamHost employees could access subscriber data. The DreamHost privacy policy can be found here: https://www.dreamhost.com/legal/privacy-policy/
 
