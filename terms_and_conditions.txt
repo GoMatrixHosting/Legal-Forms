@@ -1,11 +1,11 @@
-GoMatrixHosting - Terms & Conditions v0.1
+gmhosting OÜ - Terms & Conditions v0.2
 
-This agreement does not apply to Matrix services run by any other provider - Matrix is an open network like the Web and this agreement only applies to the services leased by the subscriber and provided by GoMatrixHosting.
+This agreement does not apply to Matrix services run by any other provider - Matrix is an open network like the Web and this agreement only applies to the services leased by the subscriber and provided by gmhosting OÜ.
 
 
 Section 1 - Provider Agreement
 
-GoMatrixHosting:
+gmhosting OÜ:
 
     1.1) agree to the Terms and Conditions defined in this document.
 
@@ -54,7 +54,7 @@ GoMatrixHosting:
 
     1.16) reserve the right to suspend the services immediately and without notice, and to report the data and logs of these services to any relevant authorities, if we determine, in our sole judgement, that any of the services are being used unlawfully or in violation of local regulations - even though we have no responsibility to make such determination.
 
-    1.17) will attempt to provide the best service possible, but at the same time we provide these services ‘as is’ without a warranty of any kind. We at GoMatrixHosting make no warranty that:
+    1.17) will attempt to provide the best service possible, but at the same time we provide these services ‘as is’ without a warranty of any kind. We at gmhosting OÜ make no warranty that:
         a) the services will meet your requirements or expectations.
         b) the services will be error-free, secure or reliable.
         c) any errors or defects in the services will be corrected.
@@ -63,7 +63,7 @@ GoMatrixHosting:
 
     1.19) we reserve the right to publish all legal requests defined in section 1 - 1.18 of this document.
 
-    1.20) have a ‘Your Service, Your Data’ policy, where you are entitled to a copy of your homeserver's data, this is all the data you need to migrate your Matrix/Element/Jitsi service away from GoMatrixHosting. This is available under the condition that all your subscriber invoices have been paid, and your server was not involved in any illegal activity.
+    1.20) have a ‘Your Service, Your Data’ policy, where you are entitled to a copy of your homeserver's data, this is all the data you need to migrate your Matrix/Element/Jitsi service away from gmhosting OÜ. This is available under the condition that all your subscriber invoices have been paid, and your server was not involved in any illegal activity.
 
 
 Section 2 - Subscriber Agreement
@@ -72,7 +72,7 @@ By using any of our services, you the subscriber:
 
     2.1) agree to the Terms and Conditions defined in this document.
 
-    2.2) understand that these Terms and Conditions are a living document, that you will be required to review any changes made to it, and that as a subscriber your continued use of GoMatrixHosting services constitute an acceptance of these changes.
+    2.2) understand that these Terms and Conditions are a living document, that you will be required to review any changes made to it, and that as a subscriber your continued use of gmhosting OÜ services constitute an acceptance of these changes.
 
     2.3) reserve the right to discontinue the services if you do not agree with any version of this document.
 
@@ -82,7 +82,7 @@ By using any of our services, you the subscriber:
 
     2.6) agree to be responsible for the server and services you are renting from us, and to moderate them to be in compliance with the law.
 
-    2.7) understand that it is my responsibility to report any illegal activity you witness (Eg: The distribution of child pornography.) on the service to GoMatrixHosting and to the relevant authorities.
+    2.7) understand that it is my responsibility to report any illegal activity you witness (Eg: The distribution of child pornography.) on the service to gmhosting OÜ and to the relevant authorities.
 
     2.8) understand that in a federated environment the performance of other servers might affect your users.
 
@@ -90,22 +90,22 @@ By using any of our services, you the subscriber:
 
     2.10) agree to pay due invoices at the beginning of each billing period, I understand that the services will be discontinued if I do not pay these.
     
-    2.11) agree to not modify your server in a way that is discouraged, not advised by GoMatrixHosting or that circumvents the restrictions imposed by GoMatrixHosting.
+    2.11) agree to not modify your server in a way that is discouraged, not advised by gmhosting OÜ or that circumvents the restrictions imposed by gmhosting OÜ.
     
     2.12) understand that you may be required to pay for premium support or that your service may be discontinued if you modify your server in ways defined in section 11 of the 'Subscriber Agreement' section of this document.
 
     2.13) are free to terminate the services at any time, but understand that refunds for previously provided services will not be available.
 
-    2.14) understand the services do not and are not intended to support emergency calls to any emergency services. We at GoMatrixHosting is not liable for any claims, damages or loss which arise from this limitation.
+    2.14) understand the services do not and are not intended to support emergency calls to any emergency services. We at gmhosting OÜ is not liable for any claims, damages or loss which arise from this limitation.
 
-    2.15) agree to indemnify and hold GoMatrixHosting and its other partners and employees harmless from any claim or demand, including reasonable legal fees, made by any third party due to or arising out of:
+    2.15) agree to indemnify and hold gmhosting OÜ and its other partners and employees harmless from any claim or demand, including reasonable legal fees, made by any third party due to or arising out of:
         a) your users transmitting content though the services, including third party use of such content.
         b) your access or use of the service, as well as the access and use of your users whether or not they are authorised by you.
         c) your violation of our Terms & Conditions.
         d) your violation of any rights of any third party.
         e) your access and use, as well as the access and use of your users of linked sites.
 
-    2.16) understand that GoMatrixHosting is an Estonian company and is subject to Estonian and EU law.
+    2.16) understand that gmhosting OÜ is an Estonian company and is subject to Estonian and EU law.
 
     2.17) do not claim intellectual property rights over rooms, message content from users transmitted directly to the server, through federation or through a bridge.
 
@@ -114,19 +114,19 @@ Definition of terms:
 
 ‘Matrix’ - is the open standard that defines the Matrix network, as well as the actual network compromised of Matrix servers around the globe.
 
-‘Subscriber' - refers to the individual, or organization, who have an active subscription with GoMatrixHosting.
+‘Subscriber' - refers to the individual, or organization, who have an active subscription with gmhosting OÜ.
 
 ‘Users’ - people who access or use the services the subscriber has rented, whether explicitly authorized or not.
 
-’Homeserver’ - a Matrix server, it stores user accounts, conversation history and provides extra functionality, homeservers are rented by subscribers as a part of their GoMatrixHosting service, if enabled the subscriber's homeserver facilitates conversations across the Matrix network.
+’Homeserver’ - a Matrix server, it stores user accounts, conversation history and provides extra functionality, homeservers are rented by subscribers as a part of their gmhosting OÜ service, if enabled the subscriber's homeserver facilitates conversations across the Matrix network.
 
 ’Subscription’ - a unit of service.
 
-‘Service’ - refers to the Matrix homeserver, Element and Jitsi services and support services and any other services provided by GoMatrixHosting.
+‘Service’ - refers to the Matrix homeserver, Element and Jitsi services and support services and any other services provided by gmhosting OÜ.
 
-‘Server’ - refers to the virtual or physical server and infrastructure rented by GoMatrixHosting to host these services on. (Eg: VPS, SES, Object Storage.) 
+‘Server’ - refers to the virtual or physical server and infrastructure rented by gmhosting OÜ to host these services on. (Eg: VPS, SES, Object Storage.) 
 
-’Premium Support’ - refers to any extra support services provided by GoMatrixHosting that are billed separately.
+’Premium Support’ - refers to any extra support services provided by gmhosting OÜ that are billed separately.
 
 ‘Federation’ - when Matrix servers connect and synchronize the state of rooms to provide communication for users across Matrix servers.
 

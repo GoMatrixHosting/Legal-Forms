@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-The GoMatrixHosting,
+The gmhosting OÜ,
 
 Terms and Conditions, seen here: https://gomatrixhosting.com/terms-and-condition
 

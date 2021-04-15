@@ -1,18 +1,18 @@
-GoMatrixHosting - Privacy Policy v0.1
+gmhosting OÜ - Privacy Policy v0.2
 
-As a subscriber or user of GoMatrixHosting services we care about your privacy. This document is designed to clarify how your personal data is collected, used and what rights you have as a subscriber or user of GoMatrixHosting.
+As a subscriber or user of gmhosting OÜ services we care about your privacy. This document is designed to clarify how your personal data is collected, used and what rights you have as a subscriber or user of gmhosting OÜ.
 
 
 Section 1 - Scope of this document
 
 This document explains how we process personal data as it relates to:
-    1) Subscribers who rent services from GoMatrixHosting.
+    1) Subscribers who rent services from gmhosting OÜ.
     2) Users, authorized or not who connect to these services.
 
 
 Section 2 - Changes to this document
 
-This privacy policy should be considered a living document and so it may be updated over time. As a subscriber or user your continued use of GoMatrixHosting's services or homeservers constitute an acceptance of all such changes.
+This privacy policy should be considered a living document and so it may be updated over time. As a subscriber or user your continued use of gmhosting OÜ's services or homeservers constitute an acceptance of all such changes.
 
 
 Section 3 - GDPR (General Data Protection Regulation) erasure and access
@@ -72,7 +72,7 @@ Section 8 - Handling of passwords
 
 Subscriber passwords are maintained by the wordpress/memberpress system. It is the responsibility of a subscriber to maintain proper password hygiene (e.g. using a password manager, rotating passwords). Actions taken using a subscribers credentials will be deemed to be the actions of that subscriber, with all consequences including service termination, civil and criminal penalties. 
 
-If the subscriber believes their account has been compromised it is the responsibility of that subscriber to immediately contact GoMatrixHosting.
+If the subscriber believes their account has been compromised it is the responsibility of that subscriber to immediately contact gmhosting OÜ.
 
 
 Section 9 - Children's privacy
@@ -84,7 +84,7 @@ The subscriber must ensure that if minors are using the service that it complies
 
 Section 10 - Other parties that can access your data
 
-We host GoMatrixHosting use DigitalOcean for out AWX server and for subscriber DigitalOcean plans. It is possible that DigitalOcean employees could access subscriber or user data. The DigitalOcean privacy policy can be found here: https://www.dreamhost.com/legal/privacy-policy/
+We host gmhosting OÜ use DigitalOcean for out AWX server and for subscriber DigitalOcean plans. It is possible that DigitalOcean employees could access subscriber or user data. The DigitalOcean privacy policy can be found here: https://www.dreamhost.com/legal/privacy-policy/
 
 Our front-end website is hosted on DreamHost, it is possible DreamHost employees could access subscriber data. The DreamHost privacy policy can be found here: https://www.dreamhost.com/legal/privacy-policy/
 
@@ -95,11 +95,11 @@ You can disable the element-web client through our AWX system if you do not wish
 Our company has physical access restrictions and security policies in place to protect your data.
 
 
-Section 11 - If GoMatrixHosting is sold
+Section 11 - If gmhosting OÜ is sold
 
-In the event that GoMatrixHosting is sold, your data will be acquired by the third party making the purchase.
+In the event that gmhosting OÜ is sold, your data will be acquired by the third party making the purchase.
 
-GoMatrixHosting will give advanced warning to all of our subscribers if this is expected to happen and afford them the opportunity to migrate away from our service if they desire.
+gmhosting OÜ will give advanced warning to all of our subscribers if this is expected to happen and afford them the opportunity to migrate away from our service if they desire.
 
 
 Section 12 - What should I do if I find a security vulnerability with the service?
@@ -120,19 +120,19 @@ Definition of terms:
 
 ‘Matrix’ - is the open standard that defines the Matrix network, as well as the actual network compromised of Matrix servers around the globe.
 
-‘Subscriber' - refers to the individual, or organization, who have an active subscription with GoMatrixHosting.
+‘Subscriber' - refers to the individual, or organization, who have an active subscription with gmhosting OÜ.
 
 ‘Users’ - people who access or use the services the subscriber has rented, whether explicitly authorized or not.
 
-’Homeserver’ - a Matrix server, it stores user accounts, conversation history and provides extra functionality, homeservers are rented by subscribers as a part of their GoMatrixHosting service, if enabled the subscriber's homeserver facilitates conversations across the Matrix network.
+’Homeserver’ - a Matrix server, it stores user accounts, conversation history and provides extra functionality, homeservers are rented by subscribers as a part of their gmhosting OÜ service, if enabled the subscriber's homeserver facilitates conversations across the Matrix network.
 
 ’Subscription’ - a unit of service.
 
-‘Service’ - refers to the Matrix homeserver, Element and Jitsi services and support services and any other services provided by GoMatrixHosting.
+‘Service’ - refers to the Matrix homeserver, Element and Jitsi services and support services and any other services provided by gmhosting OÜ.
 
-‘Server’ - refers to the virtual or physical server and infrastructure rented by GoMatrixHosting to host these services on. (Eg: VPS, SES, Object Storage.) 
+‘Server’ - refers to the virtual or physical server and infrastructure rented by gmhosting OÜ to host these services on. (Eg: VPS, SES, Object Storage.) 
 
-’Premium Support’ - refers to any extra support services provided by GoMatrixHosting that are billed separately.
+’Premium Support’ - refers to any extra support services provided by gmhosting OÜ that are billed separately.
 
 ‘Federation’ - when Matrix servers connect and synchronize the state of rooms to provide communication for users across Matrix servers.
 
