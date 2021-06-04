@@ -1,4 +1,4 @@
-gmhosting OÜ - Privacy Policy v0.2
+gmhosting OÜ - Privacy Policy v0.3
 
 As a subscriber or user of gmhosting OÜ services we care about your privacy. This document is designed to clarify how your personal data is collected, used and what rights you have as a subscriber or user of gmhosting OÜ.
 
@@ -91,6 +91,8 @@ Our front-end website is hosted on DreamHost, it is possible DreamHost employees
 Our setup includes the element-web client authored by Element Matrix Services. By using their client you are consenting to their privacy policy found here: https://element.io/privacy
 
 You can disable the element-web client through our AWX system if you do not wish to consent to the EMS privacy policy.
+
+Our setup includes a MailGun email relay that is disabled by default, if this feature is enabled you'll also be consenting to MailGuns privacy policy: https://www.mailgun.com/privacy-policy/
 
 Our company has physical access restrictions and security policies in place to protect your data.
 

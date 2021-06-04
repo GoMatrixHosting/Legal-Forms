@@ -1,4 +1,4 @@
-gmhosting OÜ - Terms & Conditions v0.2
+gmhosting OÜ - Terms & Conditions v0.3
 
 This agreement does not apply to Matrix services run by any other provider - Matrix is an open network like the Web and this agreement only applies to the services leased by the subscriber and provided by gmhosting OÜ.
 
@@ -44,7 +44,7 @@ gmhosting OÜ:
 
     1.11) will bill the subscriber for any premium support offered, either before or after the support is provided.
 
-    1.12) agree to offer the support services mentioned above to the subscriber through Email and/or Matrix. It may take us up to 48 hours to respond to support queries.
+    1.12) agree to offer the support services mentioned above to the subscriber through Email and/or Matrix. It may take us up to 24 hours to respond to support queries.
 
     1.13) do not offer telephone support, unless otherwise specified.
 
