@@ -1,9 +1,9 @@
-gmhosting OÜ - Terms & Conditions v0.3
+gmhosting OÜ - Terms & Conditions v0.4
 
-This agreement does not apply to Matrix services run by any other provider - Matrix is an open network like the Web and this agreement only applies to the services leased by the subscriber and provided by gmhosting OÜ.
+This agreement does not apply to Matrix services run by any other parties - Matrix is an open network like the Web and this agreement only applies to the services leased by the subscriber.
 
 
-Section 1 - Provider Agreement
+Section 1 - Distributor Agreement
 
 gmhosting OÜ:
 
@@ -13,22 +13,24 @@ gmhosting OÜ:
 
     1.3) reserve the right to discontinue the services if you the subscriber do not agree to any revised future version of these Terms and Conditions.
 
-    1.4) agree to setup and maintain a Matrix service, Element service and Jitsi service at the domain names specified by and owned by the subscriber. 
+    1.4) agree to setup and maintain a Matrix service, and host other related softwares (Eg: Element, Jitsi) at the domain names specified by and owned by the subscriber. 
+    
+    1.5) is acting as a distributor of these softwares and is distributing them in good faith to the subscriber.
 
-    1.5) are not responsible for the services you are renting from us, we will not directly assist in moderating the services for the subscriber, but can offer instruction to help the subscriber do this.
+    1.6) are not responsible for the services you are renting from us, we will not directly assist in moderating the services for the subscriber, but can offer instruction to help the subscriber do this.
 
-    1.6) are not liable to you or any third party for any damages or losses that occur from:
+    1.7) are not liable to you or any third party for any damages or losses that occur from:
         a) use of the services or inability to use the services.
         b) third parties that you may encounter on the services.
         c) unauthorized access or alteration of your communications or data.
         d) loss of user data or other content.
         e) any website referenced or linked to on the service.
 
-    1.7) are not responsible for maintaining any bridges, bots or extra integrations unless otherwise stated. 
+    1.8) are not responsible for maintaining any bridges, bots or extra integrations unless otherwise stated. 
 
-    1.8) will bill the subscriber on a monthly basis if they are paying by PayPal or Stripe, invoices are generated at the beginning of the billing period.
+    1.9) will bill the subscriber on a monthly basis if they are paying by PayPal or Stripe, invoices are generated at the beginning of the billing period.
 
-    1.9) may offer the subscriber the following services as a part of their subscription:
+    1.10) may offer the subscriber the following services as a part of their subscription:
         a) help using and understand the service.
         b) instructions on how to moderate the service.
         c) performance monitoring and tuning of the server over time.
@@ -36,34 +38,34 @@ gmhosting OÜ:
         e) backup and predicted recovery of the service.
         f) ordinary upgrade or downgrade of subscription size.
 
-    1.10) will offer 'premium support' for an additional fee, the cost will be based on the amount of hours taken to provide the support, this may include:
+    1.11) will offer 'premium support' for an additional fee, the cost will be based on the amount of hours taken to provide the support, this may include:
         a) unpredicted recovery of the service.
         b) customizing the services for the subscribers unique or changing needs.
         c) development of new features requested by the subscriber.
         d) service repair related to any discouraged or additional modification of a server by the subscriber.
 
-    1.11) will bill the subscriber for any premium support offered, either before or after the support is provided.
+    1.12) will bill the subscriber for any premium support offered, either before or after the support is provided.
 
-    1.12) agree to offer the support services mentioned above to the subscriber through Email and/or Matrix. It may take us up to 24 hours to respond to support queries.
+    1.13) agree to offer the support services mentioned above to the subscriber through Email and/or Matrix. It may take us up to 24 hours to respond to support queries.
 
-    1.13) do not offer telephone support, unless otherwise specified.
+    1.14) do not offer telephone support, unless otherwise specified.
 
-    1.14) prioritize routine maintenance and service outages to a regular maintenance window, see: https://gomatrixhosting.com/scheduled-maintenance/
+    1.15) prioritize routine maintenance and service outages to a regular maintenance window, see: https://gomatrixhosting.com/scheduled-maintenance/
 
-    1.15) reserve the right to discontinue the subscribers service if subscription invoices are not paid at the beginning of the billing period or if premium support invoices are not paid.
+    1.16) reserve the right to discontinue the subscribers service if subscription invoices are not paid at the beginning of the billing period or if premium support invoices are not paid.
 
-    1.16) reserve the right to suspend the services immediately and without notice, and to report the data and logs of these services to any relevant authorities, if we determine, in our sole judgement, that any of the services are being used unlawfully or in violation of local regulations - even though we have no responsibility to make such determination.
+    1.17) reserve the right to suspend the services immediately and without notice, and to report the data and logs of these services to any relevant authorities, if we determine, in our sole judgement, that any of the services are being used unlawfully or in violation of local regulations - even though we have no responsibility to make such determination.
 
-    1.17) will attempt to provide the best service possible, but at the same time we provide these services ‘as is’ without a warranty of any kind. We at gmhosting OÜ make no warranty that:
-        a) the services will meet your requirements or expectations.
-        b) the services will be error-free, secure or reliable.
+    1.18) will attempt to provide the best service possible, but at the same time we provide these services ‘as is’ without a warranty of any kind. We at gmhosting OÜ make no warranty that:
+        a) the distributed software will meet your requirements or expectations.
+        b) the distributed software will be error-free, secure or reliable.
         c) any errors or defects in the services will be corrected.
 
-    1.18) are not able to respond to any government request that attempts to undermine or circumvent the security features of the software we deploy.
+    1.19) are not able to respond to any government request that attempts to undermine or circumvent the security features of the software we deploy.
 
-    1.19) we reserve the right to publish all legal requests defined in section 1 - 1.18 of this document.
+    1.20) we reserve the right to publish all legal requests defined in section 1 - 1.18 of this document.
 
-    1.20) have a ‘Your Service, Your Data’ policy, where you are entitled to a copy of your homeserver's data, this is all the data you need to migrate your Matrix/Element/Jitsi service away from gmhosting OÜ. This is available under the condition that all your subscriber invoices have been paid, and your server was not involved in any illegal activity.
+    1.21) have a ‘Your Service, Your Data’ policy, where you are entitled to a copy of your homeserver's data, this is all the data you need to migrate your Matrix/Element/Jitsi service away from gmhosting OÜ. This is available under the condition that all your subscriber invoices have been paid, and your server was not involved in any illegal activity.
 
 
 Section 2 - Subscriber Agreement
@@ -94,7 +96,7 @@ By using any of our services, you the subscriber:
     
     2.12) understand that you may be required to pay for premium support or that your service may be discontinued if you modify your server in ways defined in section 11 of the 'Subscriber Agreement' section of this document.
 
-    2.13) are free to terminate the services at any time, but understand that refunds for previously provided services will not be available.
+    2.13) are free to terminate the services at any time, but understand that refunds for previously provided services might not be available.
 
     2.14) understand the services do not and are not intended to support emergency calls to any emergency services. We at gmhosting OÜ is not liable for any claims, damages or loss which arise from this limitation.
 
@@ -122,7 +124,7 @@ Definition of terms:
 
 ’Subscription’ - a unit of service.
 
-‘Service’ - refers to the Matrix homeserver, Element and Jitsi services and support services and any other services provided by gmhosting OÜ.
+‘Service’ - refers to the Matrix homeserver, Element, Dimension and Jitsi software and support services and any other services or softwares distributed by gmhosting OÜ.
 
 ‘Server’ - refers to the virtual or physical server and infrastructure rented by gmhosting OÜ to host these services on. (Eg: VPS, SES, Object Storage.) 
 
