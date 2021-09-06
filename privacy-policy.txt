@@ -43,7 +43,7 @@ Payment processing is handled by PayPal or Stripe, these processors store your c
 Payment data is collected in our MemberPress database, it will never be shared with third parties except for the purpose of determining the validity of a payment. In this case it might be shared with your credit card provider or the payment processor.
 
 
-Section 6 - The information we collect from users of the service
+Section 6 - The information we collect from the users of the service
 
 Users will have the following information collected automatically as they use the service:
     1) IP Address: IPs are logged by the homeserver and coturn service and are retained for a period of 28 days.
@@ -57,7 +57,14 @@ Users will have the following information collected automatically as they use th
         c) Profile pictures, message reactions, nicknames, read receipts, message senders, message timestamps.
 
 
-Section 7 - Sharing data in compliance with law enforcement requests and applicable laws
+Section 7 - Server metrics and user count
+
+The following information will be collected about the service itself:
+    1) Server Metrics: Many different metrics on the clients server will be collected and retained for 90 days. These metrics contain no personal information.
+    2) Monthly Average User Count: A record of how many active users your service has will be retained for 90 days.
+
+
+Section 8 - Sharing data in compliance with law enforcement requests and applicable laws
 
 In exceptional circumstances we may be legally required to to share data about a subscriber or their users with a law enforcement agency, this will occur if:
 
@@ -68,21 +75,21 @@ In exceptional circumstances we may be legally required to to share data about a
 3) we are responding to an emergency, and believe in good faith that sharing that data is required to prevent the occurrence of a serious crime.
 
 
-Section 8 - Handling of passwords
+Section 9 - Handling of passwords
 
 Subscriber passwords are maintained by the wordpress/memberpress system. It is the responsibility of a subscriber to maintain proper password hygiene (e.g. using a password manager, rotating passwords). Actions taken using a subscribers credentials will be deemed to be the actions of that subscriber, with all consequences including service termination, civil and criminal penalties. 
 
 If the subscriber believes their account has been compromised it is the responsibility of that subscriber to immediately contact gmhosting OÜ.
 
 
-Section 9 - Children's privacy
+Section 10 - Children's privacy
 
 The subscriber must be a legally responsible adult in the jurisdiction they reside in.
 
 The subscriber must ensure that if minors are using the service that it complies with all the relevant legislation for the jurisdiction they reside in. The subscriber is responsible for any claims, damages or loss that occur from allowing non-adult users.
 
 
-Section 10 - Other parties that can access your data
+Section 11 - Other parties that can access your data
 
 We at gmhosting OÜ use DigitalOcean for our AWX server and for subscriber DigitalOcean plans. It is possible that DigitalOcean employees could access subscriber or user data. The DigitalOcean privacy policy can be found here: https://www.digitalocean.com/legal/privacy-policy/
 
@@ -97,21 +104,21 @@ Our setup includes a MailGun email relay that is disabled by default, if this fe
 Our company has physical access restrictions and security policies in place to protect your data.
 
 
-Section 11 - If gmhosting OÜ is sold
+Section 12 - If gmhosting OÜ is sold
 
 In the event that gmhosting OÜ is sold, your data will be acquired by the third party making the purchase.
 
 gmhosting OÜ will give advanced warning to all of our subscribers if this is expected to happen and afford them the opportunity to migrate away from our service if they desire.
 
 
-Section 12 - What should I do if I find a security vulnerability with the service?
+Section 13 - What should I do if I find a security vulnerability with the service?
 
 If you have discovered a security concern please email us at: security@gomatrixhosting.com
 
 We value the security of this service and will work with you to address your concern. Please act in good faith to protect the privacy of the users and homeservers involved.
 
 
-Section 13 - Making a complaint
+Section 14 - Making a complaint
 
 If you have a complaint or suspect we are violating GDPR please contact us immediately at: support@gomatrixhosting.com
 
